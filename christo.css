@@ -1,0 +1,1470 @@
+/* DESKTOP / LAPTOP /SOME TABLETS */
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	cursor: url(SpermCursorWhiteFinal.png), auto;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+	cursor: url(SpermCursorWhiteFinal.png), auto;
+}
+
+#wrap {
+height:100%;
+position: absolute;
+top:0;
+bottom: 0;
+right: 0;
+left:0;
+}
+
+.thebackside {
+	position: absolute;
+	top:0;
+	bottom: 0;
+	right: 50%;
+	left:0;
+	color: #ffffff;
+	background-image: -o-linear-gradient (to right, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: -moz-linear-gradient (to right, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: -webkit-linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: linear-gradient(to right,	rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	z-index: -1;
+}
+
+.lebackside {
+	position: absolute;
+	top:0;
+	bottom: 0;
+	right: 0;
+	left:50%;
+	color: #ffffff;
+	background-image: -o-linear-gradient (to left, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: -moz-linear-gradient (to left, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: -webkit-linear-gradient(to left, rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	background-image: linear-gradient(to left,	rgba(0,0,0,0.2), rgba(0,0,0,0.01));
+	z-index: -1;
+}
+
+
+.egg {
+
+	height: 1000px;
+	width: 100%;
+} 
+
+#fertilizer {
+	animation: fertilizeit 300s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: alternate;
+	animation-delay: 0s;
+	-webkit-animation: fertilizeit 300s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-direction: alternate;
+	-webkit-animation-delay: 0s;
+}
+
+@keyframes fertilizeit {
+
+0% {margin-top: 150px; margin-left: 1200px;}
+1% {margin-top: 100px; margin-left: 1100px;}
+2% {margin-top: 50px; margin-left: 1000px;}
+3% {margin-top: 0px; margin-left: 950px;}
+4% {margin-top: 100px; margin-left: 900px;}
+5% {margin-top: 150px; margin-left: 800px;}
+6% {margin-top: 200px; margin-left: 700px;}
+7% {margin-top: 250px; margin-left: 600px;}
+8% {margin-top: 300px; margin-left: 500px;}
+9% {margin-top: 350px; margin-left: 400px;}
+10% {margin-top: 400px; margin-left: 300px;}
+11% {margin-top: 350px; margin-left: 200px;}
+12% {margin-top: 300px; margin-left: 100px;}
+13% {margin-top: 250px; margin-left: 0px;}
+14% {margin-top: 200px; margin-left: 100px;}
+15% {margin-top: 150px; margin-left: 200px;}
+16% {margin-top: 100px; margin-left: 300px;}
+17% {margin-top: 50px; margin-left: 400px;}
+18% {margin-top: 100px; margin-left: 500px;}
+19% {margin-top: 150px; margin-left: 600px;}
+20% {margin-top: 200px; margin-left: 700px;}
+21% {margin-top: 250px; margin-left: 800px;}
+22% {margin-top: 300px; margin-left: 900px;}
+23% {margin-top: 350px; margin-left: 800px;}
+24% {margin-top: 400px; margin-left: 700px;}
+25% {margin-top: 450px; margin-left: 600px;}
+26% {margin-top: 500px; margin-left: 500px;}
+27% {margin-top: 550px; margin-left: 400px;}
+28% {margin-top: 600px; margin-left: 300px;}
+29% {margin-top: 650px; margin-left: 200px;}
+30% {margin-top: 600px; margin-left: 100px;}
+31% {margin-top: 550px; margin-left: 0px;}
+32% {margin-top: 500px; margin-left: 100px;}
+33% {margin-top: 450px; margin-left: 200px;}
+34% {margin-top: 400px; margin-left: 300px;}
+35% {margin-top: 350px; margin-left: 400px;}
+36% {margin-top: 300px; margin-left: 500px;}
+37% {margin-top: 250px; margin-left: 600px;}
+38% {margin-top: 200px; margin-left: 700px;}
+39% {margin-top: 150px; margin-left: 800px;}
+40% {margin-top: 100px; margin-left: 900px;}
+41% {margin-top: 150px; margin-left: 875px;}
+42% {margin-top: 200px; margin-left: 850px;}
+43% {margin-top: 250px; margin-left: 825px;}
+44% {margin-top: 300px; margin-left: 800px;}
+45% {margin-top: 350px; margin-left: 775px;}
+46% {margin-top: 400px; margin-left: 750px;}
+47% {margin-top: 450px; margin-left: 725px;}
+48% {margin-top: 500px; margin-left: 700px;}
+49% {margin-top: 450px; margin-left: 600px;}
+50% {margin-top: 400px; margin-left: 500px;}
+51% {margin-top: 350px; margin-left: 400px;}
+52% {margin-top: 300px; margin-left: 300px;}
+53% {margin-top: 250px; margin-left: 200px;}
+54% {margin-top: 200px; margin-left: 100px;}
+55% {margin-top: 100px; margin-left: 0px;}
+56% {margin-top: 100px; margin-left: 100px;}
+57% {margin-top: 100px; margin-left: 200px;}
+58% {margin-top: 100px; margin-left: 300px;}
+59% {margin-top: 100px; margin-left: 400px;}
+60% {margin-top: 100px; margin-left: 500px;}
+61% {margin-top: 100px; margin-left: 600px;}
+62% {margin-top: 125px; margin-left: 700px;}
+63% {margin-top: 150px; margin-left: 800px;}
+64% {margin-top: 175px; margin-left: 900px;}
+65% {margin-top: 200px; margin-left: 800px;}
+66% {margin-top: 225px; margin-left: 700px;}
+67% {margin-top: 250px; margin-left: 600px;}
+68% {margin-top: 275px; margin-left: 500px;}
+69% {margin-top: 300px; margin-left: 400px;}
+70% {margin-top: 325px; margin-left: 300px;}
+71% {margin-top: 350px; margin-left: 200px;}
+72% {margin-top: 375px; margin-left: 100px;}
+73% {margin-top: 400px; margin-left: 0px;}
+74% {margin-top: 350px; margin-left: 100px;}
+75% {margin-top: 300px; margin-left: 200px;}
+76% {margin-top: 250px; margin-left: 300px;}
+77% {margin-top: 200px; margin-left: 400px;}
+78% {margin-top: 150px; margin-left: 500px;}
+79% {margin-top: 100px; margin-left: 600px;}
+80% {margin-top: 50px; margin-left: 700px;}
+81% {margin-top: 0px; margin-left: 800px;}
+82% {margin-top: 100px; margin-left: 750px;}
+83% {margin-top: 200px; margin-left: 700px;}
+84% {margin-top: 300px; margin-left: 650px;}
+85% {margin-top: 400px; margin-left: 600px;}
+86% {margin-top: 500px; margin-left: 550px;}
+87% {margin-top: 600px; margin-left: 500px;}
+88% {margin-top: 500px; margin-left: 450px;}
+89% {margin-top: 400px; margin-left: 400px;}
+90% {margin-top: 300px; margin-left: 350px;}
+91% {margin-top: 200px; margin-left: 300px;}
+92% {margin-top: 100px; margin-left: 250px;}
+93% {margin-top: 0px; margin-left: 200px;}
+94% {margin-top: 50px; margin-left: 150px;}
+95% {margin-top: 100px; margin-left: 100px;}
+96% {margin-top: 200px; margin-left: 50px;}
+97% {margin-top: 300px; margin-left: 0px;}
+98% {margin-top: 400px; margin-left: -50px;}
+99% {margin-top: 500px; margin-left: -100px;}
+100% {margin-top: 600px; margin-left: -150px;}
+}
+
+@-webkit-keyframes fertilizeit {
+
+0% {margin-top: 150px; margin-left: 1200px;}
+1% {margin-top: 100px; margin-left: 1100px;}
+2% {margin-top: 50px; margin-left: 1000px;}
+3% {margin-top: 0px; margin-left: 950px;}
+4% {margin-top: 100px; margin-left: 900px;}
+5% {margin-top: 150px; margin-left: 800px;}
+6% {margin-top: 200px; margin-left: 700px;}
+7% {margin-top: 250px; margin-left: 600px;}
+8% {margin-top: 300px; margin-left: 500px;}
+9% {margin-top: 350px; margin-left: 400px;}
+10% {margin-top: 400px; margin-left: 300px;}
+11% {margin-top: 350px; margin-left: 200px;}
+12% {margin-top: 300px; margin-left: 100px;}
+13% {margin-top: 250px; margin-left: 0px;}
+14% {margin-top: 200px; margin-left: 100px;}
+15% {margin-top: 150px; margin-left: 200px;}
+16% {margin-top: 100px; margin-left: 300px;}
+17% {margin-top: 50px; margin-left: 400px;}
+18% {margin-top: 100px; margin-left: 500px;}
+19% {margin-top: 150px; margin-left: 600px;}
+20% {margin-top: 200px; margin-left: 700px;}
+21% {margin-top: 250px; margin-left: 800px;}
+22% {margin-top: 300px; margin-left: 900px;}
+23% {margin-top: 350px; margin-left: 800px;}
+24% {margin-top: 400px; margin-left: 700px;}
+25% {margin-top: 450px; margin-left: 600px;}
+26% {margin-top: 500px; margin-left: 500px;}
+27% {margin-top: 550px; margin-left: 400px;}
+28% {margin-top: 600px; margin-left: 300px;}
+29% {margin-top: 650px; margin-left: 200px;}
+30% {margin-top: 600px; margin-left: 100px;}
+31% {margin-top: 550px; margin-left: 0px;}
+32% {margin-top: 500px; margin-left: 100px;}
+33% {margin-top: 450px; margin-left: 200px;}
+34% {margin-top: 400px; margin-left: 300px;}
+35% {margin-top: 350px; margin-left: 400px;}
+36% {margin-top: 300px; margin-left: 500px;}
+37% {margin-top: 250px; margin-left: 600px;}
+38% {margin-top: 200px; margin-left: 700px;}
+39% {margin-top: 150px; margin-left: 800px;}
+40% {margin-top: 100px; margin-left: 900px;}
+41% {margin-top: 150px; margin-left: 875px;}
+42% {margin-top: 200px; margin-left: 850px;}
+43% {margin-top: 250px; margin-left: 825px;}
+44% {margin-top: 300px; margin-left: 800px;}
+45% {margin-top: 350px; margin-left: 775px;}
+46% {margin-top: 400px; margin-left: 750px;}
+47% {margin-top: 450px; margin-left: 725px;}
+48% {margin-top: 500px; margin-left: 700px;}
+49% {margin-top: 450px; margin-left: 600px;}
+50% {margin-top: 400px; margin-left: 500px;}
+51% {margin-top: 350px; margin-left: 400px;}
+52% {margin-top: 300px; margin-left: 300px;}
+53% {margin-top: 250px; margin-left: 200px;}
+54% {margin-top: 200px; margin-left: 100px;}
+55% {margin-top: 100px; margin-left: 0px;}
+56% {margin-top: 100px; margin-left: 100px;}
+57% {margin-top: 100px; margin-left: 200px;}
+58% {margin-top: 100px; margin-left: 300px;}
+59% {margin-top: 100px; margin-left: 400px;}
+60% {margin-top: 100px; margin-left: 500px;}
+61% {margin-top: 100px; margin-left: 600px;}
+62% {margin-top: 125px; margin-left: 700px;}
+63% {margin-top: 150px; margin-left: 800px;}
+64% {margin-top: 175px; margin-left: 900px;}
+65% {margin-top: 200px; margin-left: 800px;}
+66% {margin-top: 225px; margin-left: 700px;}
+67% {margin-top: 250px; margin-left: 600px;}
+68% {margin-top: 275px; margin-left: 500px;}
+69% {margin-top: 300px; margin-left: 400px;}
+70% {margin-top: 325px; margin-left: 300px;}
+71% {margin-top: 350px; margin-left: 200px;}
+72% {margin-top: 375px; margin-left: 100px;}
+73% {margin-top: 400px; margin-left: 0px;}
+74% {margin-top: 350px; margin-left: 100px;}
+75% {margin-top: 300px; margin-left: 200px;}
+76% {margin-top: 250px; margin-left: 300px;}
+77% {margin-top: 200px; margin-left: 400px;}
+78% {margin-top: 150px; margin-left: 500px;}
+79% {margin-top: 100px; margin-left: 600px;}
+80% {margin-top: 50px; margin-left: 700px;}
+81% {margin-top: 0px; margin-left: 800px;}
+82% {margin-top: 100px; margin-left: 750px;}
+83% {margin-top: 200px; margin-left: 700px;}
+84% {margin-top: 300px; margin-left: 650px;}
+85% {margin-top: 400px; margin-left: 600px;}
+86% {margin-top: 500px; margin-left: 550px;}
+87% {margin-top: 600px; margin-left: 500px;}
+88% {margin-top: 500px; margin-left: 450px;}
+89% {margin-top: 400px; margin-left: 400px;}
+90% {margin-top: 300px; margin-left: 350px;}
+91% {margin-top: 200px; margin-left: 300px;}
+92% {margin-top: 100px; margin-left: 250px;}
+93% {margin-top: 0px; margin-left: 200px;}
+94% {margin-top: 50px; margin-left: 150px;}
+95% {margin-top: 100px; margin-left: 100px;}
+96% {margin-top: 200px; margin-left: 50px;}
+97% {margin-top: 300px; margin-left: 0px;}
+98% {margin-top: 400px; margin-left: -50px;}
+99% {margin-top: 500px; margin-left: -100px;}
+100% {margin-top: 600px; margin-left: -150px;}
+}
+
+#fertilizer:hover{
+	cursor: url(SpermCursorBlackFinal.png), auto;
+}
+
+#rainbows {
+	/*0% lightness = black*/
+
+	height:1000px;
+	width:50%;
+	background-color: rgb(0, 0, 0); 
+	animation: rainbows 250s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+	-webkit-animation: rainbows 250s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-direction: normal;
+	z-index: -1;
+
+}
+
+@keyframes rainbows {
+	1% {background-color: hsl(0, 0%, 0%);}
+	2% {background-color: hsl(0, 0%, 20%);}
+	3% {background-color: hsl(0, 100%, 10%);}
+	4% {background-color: hsl(300, 100%, 10%);}
+	5% {background-color: hsl(330, 100%, 20%);}
+	6% {background-color: hsl(300, 100%, 20%);}
+	7% {background-color: hsl(330, 50%, 40%);}
+	8% {background-color: hsl(320, 100%, 30%);}
+	9% {background-color: hsl(340, 60%, 50%);}
+	10% {background-color: hsl(330, 100%, 40%);}
+	11% {background-color: hsl(320, 60%, 50%);}
+	12% {background-color: hsl(315, 100%, 40%);}
+	13% {background-color: hsl(330, 100%, 60%);}
+	14% {background-color: hsl(324, 100%, 50%);}
+	15% {background-color: hsl(192, 100%, 50%);}
+	16% {background-color: hsl(195, 100%, 60%);}
+	17% {background-color: hsl(180, 60%, 50%);}
+	18% {background-color: hsl(180, 100%, 40%);}
+	19% {background-color: hsl(195, 100%, 40%);}
+	20% {background-color: hsl(180, 100%, 30%);}
+	21% {background-color: hsl(200, 100%, 30%);}
+	22% {background-color: hsl(180, 100%, 20%);}
+	23% {background-color: hsl(210, 100%, 20%);}
+	24% {background-color: hsl(0, 100%, 20%);}
+	25% {background-color: hsl(0, 100%, 30%);} 
+	26% {background-color: hsl(0, 60%, 50%);} 
+	27% {background-color: hsl(0, 100%, 40%);} 
+	28% {background-color: hsl(0, 100%, 50%);} 
+	29% {background-color: hsl(0, 100%, 60%);} 
+	30% {background-color: hsl(0, 100%, 70%);} 
+	31% {background-color: hsl(0, 100%, 80%);} 
+	32% {background-color: hsl(150, 100%, 80%);} 
+	33% {background-color: hsl(160, 100%, 70%);} 
+	34% {background-color: hsl(165, 100%, 60%);} 
+	35% {background-color: hsl(150, 100%, 60%);} 
+	36% {background-color: hsl(156, 100%, 50%);} 
+	37% {background-color: hsl(165, 100%, 40%);} 
+	38% {background-color: hsl(150, 100%, 40%);} 
+	39% {background-color: hsl(160, 100%, 30%);} 
+	40% {background-color: hsl(180, 100%, 20%);} 
+	41% {background-color: hsl(150, 100%, 20%);} 
+	42% {background-color: hsl(180, 100%, 10%);} 
+	43% {background-color: hsl(120, 100%, 10%);} 
+	44% {background-color: hsl(240, 100%, 10%);} 
+	45% {background-color: hsl(240, 100%, 20%);} 
+	46% {background-color: hsl(240, 100%, 30%);}
+	47% {background-color: hsl(240, 100%, 40%);}
+	48% {background-color: hsl(240, 100%, 50%);}
+	49% {background-color: hsl(240, 100%, 60%);}
+	50% {background-color: hsl(240, 60%, 50%);}
+	51% {background-color: hsl(240, 100%, 70%);}
+	52% {background-color: hsl(240, 100%, 80%);}
+	53% {background-color: hsl(240, 100%, 90%);}
+	54% {background-color: hsl(0, 0%, 100%);}
+	55% {background-color: hsl(60, 100%, 90%);}
+	56% {background-color: hsl(60, 100%, 80%);}
+	57% {background-color: hsl(60, 100%, 70%);}
+	58% {background-color: hsl(60, 100%, 60%);}
+	59% {background-color: hsl(60, 100%, 50%);}
+	60% {background-color: hsl(336, 100%, 50%);}
+	61% {background-color: hsl(345, 100%, 60%);}
+	62% {background-color: hsl(340, 60%, 50%);}
+	63% {background-color: hsl(330, 100%, 40%);}
+	64% {background-color: hsl(15, 100%, 40%);}
+	65% {background-color: hsl(24, 100%, 50%);}
+	66% {background-color: hsl(15, 100%, 60%);}
+	67% {background-color: hsl(24, 100%, 50%);}
+	68% {background-color: hsl(15, 100%, 60%);}
+	69% {background-color: hsl(20, 100%, 70%);}
+	70% {background-color: hsl(0, 100%, 80%);}
+	71% {background-color: hsl(90, 100%, 80%);}
+	72% {background-color: hsl(80, 100%, 70%);}
+	73% {background-color: hsl(100, 100%, 70%);}
+	74% {background-color: hsl(90, 100%, 60%);}
+	75% {background-color: hsl(96, 100%, 50%);}
+	76% {background-color: hsl(90, 100%, 40%);}
+	77% {background-color: hsl(100, 100%, 30%);}
+	78% {background-color: hsl(90, 100%, 20%);}
+	79% {background-color: hsl(100, 100%, 30%);}
+	80% {background-color: hsl(90, 100%, 20%);}
+	81% {background-color: hsl(120, 100%, 10%);}
+	82% {background-color: hsl(0, 0%, 0%);}
+	83% {background-color: hsl(300, 100%, 10%);}
+	84% {background-color: hsl(330, 100%, 20%);}
+	85% {background-color: hsl(300, 100%, 20%);}
+	86% {background-color: hsl(320, 100%, 30%);}
+	87% {background-color: hsl(300, 100%, 30%);}
+	88% {background-color: hsl(315, 100%, 40%);}
+	89% {background-color: hsl(300, 100%, 40%);}
+	90% {background-color: hsl(312, 100%, 50%);}
+	91% {background-color: hsl(240, 100%, 50%);}
+	92% {background-color: hsl(240, 100%, 40%);}
+	93% {background-color: hsl(240, 100%, 30%);}
+	94% {background-color: hsl(240, 100%, 20%);} 
+	95% {background-color: hsl(240, 100%, 10%);} 
+	96% {background-color: hsl(180, 100%, 10%);} 
+	97% {background-color: hsl(180, 100%, 20%);} 
+	98% {background-color: hsl(180, 100%, 30%);} 
+	99% {background-color: hsl(180, 100%, 40%);}
+	100% {background-color: hsl(168, 100%, 50%);}
+}
+
+@-webkit-keyframes rainbows {
+	1% {background-color: hsl(0, 0%, 0%);}
+	2% {background-color: hsl(0, 0%, 20%);}
+	3% {background-color: hsl(0, 100%, 10%);}
+	4% {background-color: hsl(300, 100%, 10%);}
+	5% {background-color: hsl(330, 100%, 20%);}
+	6% {background-color: hsl(300, 100%, 20%);}
+	7% {background-color: hsl(330, 50%, 40%);}
+	8% {background-color: hsl(320, 100%, 30%);}
+	9% {background-color: hsl(340, 60%, 50%);}
+	10% {background-color: hsl(330, 100%, 40%);}
+	11% {background-color: hsl(320, 60%, 50%);}
+	12% {background-color: hsl(315, 100%, 40%);}
+	13% {background-color: hsl(330, 100%, 60%);}
+	14% {background-color: hsl(324, 100%, 50%);}
+	15% {background-color: hsl(192, 100%, 50%);}
+	16% {background-color: hsl(195, 100%, 60%);}
+	17% {background-color: hsl(180, 60%, 50%);}
+	18% {background-color: hsl(180, 100%, 40%);}
+	19% {background-color: hsl(195, 100%, 40%);}
+	20% {background-color: hsl(180, 100%, 30%);}
+	21% {background-color: hsl(200, 100%, 30%);}
+	22% {background-color: hsl(180, 100%, 20%);}
+	23% {background-color: hsl(210, 100%, 20%);}
+	24% {background-color: hsl(0, 100%, 20%);}
+	25% {background-color: hsl(0, 100%, 30%);} 
+	26% {background-color: hsl(0, 60%, 50%);} 
+	27% {background-color: hsl(0, 100%, 40%);} 
+	28% {background-color: hsl(0, 100%, 50%);} 
+	29% {background-color: hsl(0, 100%, 60%);} 
+	30% {background-color: hsl(0, 100%, 70%);} 
+	31% {background-color: hsl(0, 100%, 80%);} 
+	32% {background-color: hsl(150, 100%, 80%);} 
+	33% {background-color: hsl(160, 100%, 70%);} 
+	34% {background-color: hsl(165, 100%, 60%);} 
+	35% {background-color: hsl(150, 100%, 60%);} 
+	36% {background-color: hsl(156, 100%, 50%);} 
+	37% {background-color: hsl(165, 100%, 40%);} 
+	38% {background-color: hsl(150, 100%, 40%);} 
+	39% {background-color: hsl(160, 100%, 30%);} 
+	40% {background-color: hsl(180, 100%, 20%);} 
+	41% {background-color: hsl(150, 100%, 20%);} 
+	42% {background-color: hsl(180, 100%, 10%);} 
+	43% {background-color: hsl(120, 100%, 10%);} 
+	44% {background-color: hsl(240, 100%, 10%);} 
+	45% {background-color: hsl(240, 100%, 20%);} 
+	46% {background-color: hsl(240, 100%, 30%);}
+	47% {background-color: hsl(240, 100%, 40%);}
+	48% {background-color: hsl(240, 100%, 50%);}
+	49% {background-color: hsl(240, 100%, 60%);}
+	50% {background-color: hsl(240, 60%, 50%);}
+	51% {background-color: hsl(240, 100%, 70%);}
+	52% {background-color: hsl(240, 100%, 80%);}
+	53% {background-color: hsl(240, 100%, 90%);}
+	54% {background-color: hsl(0, 0%, 100%);}
+	55% {background-color: hsl(60, 100%, 90%);}
+	56% {background-color: hsl(60, 100%, 80%);}
+	57% {background-color: hsl(60, 100%, 70%);}
+	58% {background-color: hsl(60, 100%, 60%);}
+	59% {background-color: hsl(60, 100%, 50%);}
+	60% {background-color: hsl(336, 100%, 50%);}
+	61% {background-color: hsl(345, 100%, 60%);}
+	62% {background-color: hsl(340, 60%, 50%);}
+	63% {background-color: hsl(330, 100%, 40%);}
+	64% {background-color: hsl(15, 100%, 40%);}
+	65% {background-color: hsl(24, 100%, 50%);}
+	66% {background-color: hsl(15, 100%, 60%);}
+	67% {background-color: hsl(24, 100%, 50%);}
+	68% {background-color: hsl(15, 100%, 60%);}
+	69% {background-color: hsl(20, 100%, 70%);}
+	70% {background-color: hsl(0, 100%, 80%);}
+	71% {background-color: hsl(90, 100%, 80%);}
+	72% {background-color: hsl(80, 100%, 70%);}
+	73% {background-color: hsl(100, 100%, 70%);}
+	74% {background-color: hsl(90, 100%, 60%);}
+	75% {background-color: hsl(96, 100%, 50%);}
+	76% {background-color: hsl(90, 100%, 40%);}
+	77% {background-color: hsl(100, 100%, 30%);}
+	78% {background-color: hsl(90, 100%, 20%);}
+	79% {background-color: hsl(100, 100%, 30%);}
+	80% {background-color: hsl(90, 100%, 20%);}
+	81% {background-color: hsl(120, 100%, 10%);}
+	82% {background-color: hsl(0, 0%, 0%);}
+	83% {background-color: hsl(300, 100%, 10%);}
+	84% {background-color: hsl(330, 100%, 20%);}
+	85% {background-color: hsl(300, 100%, 20%);}
+	86% {background-color: hsl(320, 100%, 30%);}
+	87% {background-color: hsl(300, 100%, 30%);}
+	88% {background-color: hsl(315, 100%, 40%);}
+	89% {background-color: hsl(300, 100%, 40%);}
+	90% {background-color: hsl(312, 100%, 50%);}
+	91% {background-color: hsl(240, 100%, 50%);}
+	92% {background-color: hsl(240, 100%, 40%);}
+	93% {background-color: hsl(240, 100%, 30%);}
+	94% {background-color: hsl(240, 100%, 20%);} 
+	95% {background-color: hsl(240, 100%, 10%);} 
+	96% {background-color: hsl(180, 100%, 10%);} 
+	97% {background-color: hsl(180, 100%, 20%);} 
+	98% {background-color: hsl(180, 100%, 30%);} 
+	99% {background-color: hsl(180, 100%, 40%);}
+	100% {background-color: hsl(168, 100%, 50%);}
+	
+	/*100% {background-color: hsl(180, 100%, 40%);} 
+	100% {background-color: hsl(168, 100%, 50%);} 
+	100% {background-color: hsl(180, 100%, 50%);} 
+	100% {background-color: hsl(60, 100%, 50%);} 
+	100% {background-color: hsl(0, 100%, 50%);} 
+	100% {background-color: hsl(324, 100%, 50%);} */
+
+}
+
+#butterflies {
+	/*0% lightness = black*/
+
+	height:1000px;
+	width:50%;
+	background-color: rgb(0, 0, 0); 
+	animation: butterflies 250s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+	-webkit-animation: butterflies 250s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-direction: normal;
+	z-index: -1;
+
+}
+
+@keyframes butterflies {
+	1% {background-color: hsl(0, 0%, 0%);}
+	2% {background-color: hsl(0, 0%, 20%);}
+	3% {background-color: hsl(0, 100%, 10%);}
+	4% {background-color: hsl(300, 100%, 10%);}
+	5% {background-color: hsl(330, 100%, 20%);}
+	6% {background-color: hsl(300, 100%, 20%);}
+	7% {background-color: hsl(330, 50%, 40%);}
+	8% {background-color: hsl(320, 100%, 30%);}
+	9% {background-color: hsl(340, 60%, 50%);}
+	10% {background-color: hsl(330, 100%, 40%);}
+	11% {background-color: hsl(320, 60%, 50%);}
+	12% {background-color: hsl(315, 100%, 40%);}
+	13% {background-color: hsl(330, 100%, 60%);}
+	14% {background-color: hsl(324, 100%, 50%);}
+	15% {background-color: hsl(192, 100%, 50%);}
+	16% {background-color: hsl(195, 100%, 60%);}
+	17% {background-color: hsl(180, 60%, 50%);}
+	18% {background-color: hsl(180, 100%, 40%);}
+	19% {background-color: hsl(195, 100%, 40%);}
+	20% {background-color: hsl(180, 100%, 30%);}
+	21% {background-color: hsl(200, 100%, 30%);}
+	22% {background-color: hsl(180, 100%, 20%);}
+	23% {background-color: hsl(210, 100%, 20%);}
+	24% {background-color: hsl(0, 100%, 20%);}
+	25% {background-color: hsl(0, 100%, 30%);} 
+	26% {background-color: hsl(0, 60%, 50%);} 
+	27% {background-color: hsl(0, 100%, 40%);} 
+	28% {background-color: hsl(0, 100%, 50%);} 
+	29% {background-color: hsl(0, 100%, 60%);} 
+	30% {background-color: hsl(0, 100%, 70%);} 
+	31% {background-color: hsl(0, 100%, 80%);} 
+	32% {background-color: hsl(150, 100%, 80%);} 
+	33% {background-color: hsl(160, 100%, 70%);} 
+	34% {background-color: hsl(165, 100%, 60%);} 
+	35% {background-color: hsl(150, 100%, 60%);} 
+	36% {background-color: hsl(156, 100%, 50%);} 
+	37% {background-color: hsl(165, 100%, 40%);} 
+	38% {background-color: hsl(150, 100%, 40%);} 
+	39% {background-color: hsl(160, 100%, 30%);} 
+	40% {background-color: hsl(180, 100%, 20%);} 
+	41% {background-color: hsl(150, 100%, 20%);} 
+	42% {background-color: hsl(180, 100%, 10%);} 
+	43% {background-color: hsl(120, 100%, 10%);} 
+	44% {background-color: hsl(240, 100%, 10%);} 
+	45% {background-color: hsl(240, 100%, 20%);} 
+	46% {background-color: hsl(240, 100%, 30%);}
+	47% {background-color: hsl(240, 100%, 40%);}
+	48% {background-color: hsl(240, 100%, 50%);}
+	49% {background-color: hsl(240, 100%, 60%);}
+	50% {background-color: hsl(240, 60%, 50%);}
+	51% {background-color: hsl(240, 100%, 70%);}
+	52% {background-color: hsl(240, 100%, 80%);}
+	53% {background-color: hsl(240, 100%, 90%);}
+	54% {background-color: hsl(0, 0%, 100%);}
+	55% {background-color: hsl(60, 100%, 90%);}
+	56% {background-color: hsl(60, 100%, 80%);}
+	57% {background-color: hsl(60, 100%, 70%);}
+	58% {background-color: hsl(60, 100%, 60%);}
+	59% {background-color: hsl(60, 100%, 50%);}
+	60% {background-color: hsl(336, 100%, 50%);}
+	61% {background-color: hsl(345, 100%, 60%);}
+	62% {background-color: hsl(340, 60%, 50%);}
+	63% {background-color: hsl(330, 100%, 40%);}
+	64% {background-color: hsl(15, 100%, 40%);}
+	65% {background-color: hsl(24, 100%, 50%);}
+	66% {background-color: hsl(15, 100%, 60%);}
+	67% {background-color: hsl(24, 100%, 50%);}
+	68% {background-color: hsl(15, 100%, 60%);}
+	69% {background-color: hsl(20, 100%, 70%);}
+	70% {background-color: hsl(0, 100%, 80%);}
+	71% {background-color: hsl(90, 100%, 80%);}
+	72% {background-color: hsl(80, 100%, 70%);}
+	73% {background-color: hsl(100, 100%, 70%);}
+	74% {background-color: hsl(90, 100%, 60%);}
+	75% {background-color: hsl(96, 100%, 50%);}
+	76% {background-color: hsl(90, 100%, 40%);}
+	77% {background-color: hsl(100, 100%, 30%);}
+	78% {background-color: hsl(90, 100%, 20%);}
+	79% {background-color: hsl(100, 100%, 30%);}
+	80% {background-color: hsl(90, 100%, 20%);}
+	81% {background-color: hsl(120, 100%, 10%);}
+	82% {background-color: hsl(0, 0%, 0%);}
+	83% {background-color: hsl(300, 100%, 10%);}
+	84% {background-color: hsl(330, 100%, 20%);}
+	85% {background-color: hsl(300, 100%, 20%);}
+	86% {background-color: hsl(320, 100%, 30%);}
+	87% {background-color: hsl(300, 100%, 30%);}
+	88% {background-color: hsl(315, 100%, 40%);}
+	89% {background-color: hsl(300, 100%, 40%);}
+	90% {background-color: hsl(312, 100%, 50%);}
+	91% {background-color: hsl(240, 100%, 50%);}
+	92% {background-color: hsl(240, 100%, 40%);}
+	93% {background-color: hsl(240, 100%, 30%);}
+	94% {background-color: hsl(240, 100%, 20%);} 
+	95% {background-color: hsl(240, 100%, 10%);} 
+	96% {background-color: hsl(180, 100%, 10%);} 
+	97% {background-color: hsl(180, 100%, 20%);} 
+	98% {background-color: hsl(180, 100%, 30%);} 
+	99% {background-color: hsl(180, 100%, 40%);}
+	100% {background-color: hsl(168, 100%, 50%);}
+}
+
+@-webkit-keyframes butterflies {
+	1% {background-color: hsl(0, 0%, 0%);}
+	2% {background-color: hsl(0, 0%, 20%);}
+	3% {background-color: hsl(0, 100%, 10%);}
+	4% {background-color: hsl(300, 100%, 10%);}
+	5% {background-color: hsl(330, 100%, 20%);}
+	6% {background-color: hsl(300, 100%, 20%);}
+	7% {background-color: hsl(330, 50%, 40%);}
+	8% {background-color: hsl(320, 100%, 30%);}
+	9% {background-color: hsl(340, 60%, 50%);}
+	10% {background-color: hsl(330, 100%, 40%);}
+	11% {background-color: hsl(320, 60%, 50%);}
+	12% {background-color: hsl(315, 100%, 40%);}
+	13% {background-color: hsl(330, 100%, 60%);}
+	14% {background-color: hsl(324, 100%, 50%);}
+	15% {background-color: hsl(192, 100%, 50%);}
+	16% {background-color: hsl(195, 100%, 60%);}
+	17% {background-color: hsl(180, 60%, 50%);}
+	18% {background-color: hsl(180, 100%, 40%);}
+	19% {background-color: hsl(195, 100%, 40%);}
+	20% {background-color: hsl(180, 100%, 30%);}
+	21% {background-color: hsl(200, 100%, 30%);}
+	22% {background-color: hsl(180, 100%, 20%);}
+	23% {background-color: hsl(210, 100%, 20%);}
+	24% {background-color: hsl(0, 100%, 20%);}
+	25% {background-color: hsl(0, 100%, 30%);} 
+	26% {background-color: hsl(0, 60%, 50%);} 
+	27% {background-color: hsl(0, 100%, 40%);} 
+	28% {background-color: hsl(0, 100%, 50%);} 
+	29% {background-color: hsl(0, 100%, 60%);} 
+	30% {background-color: hsl(0, 100%, 70%);} 
+	31% {background-color: hsl(0, 100%, 80%);} 
+	32% {background-color: hsl(150, 100%, 80%);} 
+	33% {background-color: hsl(160, 100%, 70%);} 
+	34% {background-color: hsl(165, 100%, 60%);} 
+	35% {background-color: hsl(150, 100%, 60%);} 
+	36% {background-color: hsl(156, 100%, 50%);} 
+	37% {background-color: hsl(165, 100%, 40%);} 
+	38% {background-color: hsl(150, 100%, 40%);} 
+	39% {background-color: hsl(160, 100%, 30%);} 
+	40% {background-color: hsl(180, 100%, 20%);} 
+	41% {background-color: hsl(150, 100%, 20%);} 
+	42% {background-color: hsl(180, 100%, 10%);} 
+	43% {background-color: hsl(120, 100%, 10%);} 
+	44% {background-color: hsl(240, 100%, 10%);} 
+	45% {background-color: hsl(240, 100%, 20%);} 
+	46% {background-color: hsl(240, 100%, 30%);}
+	47% {background-color: hsl(240, 100%, 40%);}
+	48% {background-color: hsl(240, 100%, 50%);}
+	49% {background-color: hsl(240, 100%, 60%);}
+	50% {background-color: hsl(240, 60%, 50%);}
+	51% {background-color: hsl(240, 100%, 70%);}
+	52% {background-color: hsl(240, 100%, 80%);}
+	53% {background-color: hsl(240, 100%, 90%);}
+	54% {background-color: hsl(0, 0%, 100%);}
+	55% {background-color: hsl(60, 100%, 90%);}
+	56% {background-color: hsl(60, 100%, 80%);}
+	57% {background-color: hsl(60, 100%, 70%);}
+	58% {background-color: hsl(60, 100%, 60%);}
+	59% {background-color: hsl(60, 100%, 50%);}
+	60% {background-color: hsl(336, 100%, 50%);}
+	61% {background-color: hsl(345, 100%, 60%);}
+	62% {background-color: hsl(340, 60%, 50%);}
+	63% {background-color: hsl(330, 100%, 40%);}
+	64% {background-color: hsl(15, 100%, 40%);}
+	65% {background-color: hsl(24, 100%, 50%);}
+	66% {background-color: hsl(15, 100%, 60%);}
+	67% {background-color: hsl(24, 100%, 50%);}
+	68% {background-color: hsl(15, 100%, 60%);}
+	69% {background-color: hsl(20, 100%, 70%);}
+	70% {background-color: hsl(0, 100%, 80%);}
+	71% {background-color: hsl(90, 100%, 80%);}
+	72% {background-color: hsl(80, 100%, 70%);}
+	73% {background-color: hsl(100, 100%, 70%);}
+	74% {background-color: hsl(90, 100%, 60%);}
+	75% {background-color: hsl(96, 100%, 50%);}
+	76% {background-color: hsl(90, 100%, 40%);}
+	77% {background-color: hsl(100, 100%, 30%);}
+	78% {background-color: hsl(90, 100%, 20%);}
+	79% {background-color: hsl(100, 100%, 30%);}
+	80% {background-color: hsl(90, 100%, 20%);}
+	81% {background-color: hsl(120, 100%, 10%);}
+	82% {background-color: hsl(0, 0%, 0%);}
+	83% {background-color: hsl(300, 100%, 10%);}
+	84% {background-color: hsl(330, 100%, 20%);}
+	85% {background-color: hsl(300, 100%, 20%);}
+	86% {background-color: hsl(320, 100%, 30%);}
+	87% {background-color: hsl(300, 100%, 30%);}
+	88% {background-color: hsl(315, 100%, 40%);}
+	89% {background-color: hsl(300, 100%, 40%);}
+	90% {background-color: hsl(312, 100%, 50%);}
+	91% {background-color: hsl(240, 100%, 50%);}
+	92% {background-color: hsl(240, 100%, 40%);}
+	93% {background-color: hsl(240, 100%, 30%);}
+	94% {background-color: hsl(240, 100%, 20%);} 
+	95% {background-color: hsl(240, 100%, 10%);} 
+	96% {background-color: hsl(180, 100%, 10%);} 
+	97% {background-color: hsl(180, 100%, 20%);} 
+	98% {background-color: hsl(180, 100%, 30%);} 
+	99% {background-color: hsl(180, 100%, 40%);}
+	100% {background-color: hsl(168, 100%, 50%);}
+}	
+	/*100% {background-color: hsl(180, 100%, 40%);} 
+	100% {background-color: hsl(168, 100%, 50%);} 
+	100% {background-color: hsl(180, 100%, 50%);} 
+	100% {background-color: hsl(60, 100%, 50%);} 
+	100% {background-color: hsl(0, 100%, 50%);} 
+	100% {background-color: hsl(324, 100%, 50%);} */
+
+
+.wrapitup {
+position: relative;
+margin-top: 1.5%;
+margin-left: 24%;
+border-collapse: collapse;
+}
+
+.logo {
+position: absolute;
+width: 27%;
+height: auto;
+z-index: 4;
+border-collapse: collapse;
+margin: auto;
+}
+
+.hello {
+display: block;
+position: absolute;
+margin-top: 24%;
+left: 20%;
+width: 30%;
+height: auto;
+z-index: 3;
+}
+
+.callme {
+display: block;
+position: absolute;
+margin-top: 34%;
+left: 20%;
+width: 30%;
+height: auto;
+z-index: 2;
+}
+
+.hereweare {
+display: block;
+margin-top: 34%;
+margin-left: 51%;
+position: absolute;
+width: 30%;
+height: auto;
+z-index: 1;
+}
+
+.profile1 {
+display: block;
+position: absolute;
+margin-top: 3.3%;
+margin-left: 51%;
+width: 30%;
+height: auto;
+z-index: 3;
+}
+
+.profile2 {
+display: block;
+margin-top: 1.7%;
+margin-left: 52.5%;
+position: absolute;
+width: 30%;
+height: auto;
+z-index: 2;
+}
+
+.profile3 {
+display: block;
+margin-top: .3%;
+margin-left: 54%;
+position: absolute;
+width: 30%;
+height: auto;
+z-index: 1;
+}
+
+.stealinsbadmmk {
+display: block;
+margin-top: 44%;
+left: 20%;
+position: absolute;
+width: 30%;
+height: auto;
+z-index: 1;
+}
+
+.devcred {
+display: block;
+margin-top: 44%;
+margin-left: 51%;
+position: absolute;
+width: 30%;
+height: auto;
+z-index: 1;
+}
+
+.profile1:hover, .profile2:hover, .profile3:hover, .hereweare:hover, .callme:hover, .hello:hover, .logo:hover, .stealinsbadmmk:hover,
+.devcred:hover {
+	cursor: url(SpermCursorBlackFinal.png), auto;
+}
+
+/* LE PHONEZ */
+
+@media all and (min-device-width : 320px) and (max-device-width : 600px) and (orientation:portrait) {
+
+body {
+	-webkit-text-size-adjust:none;
+}
+
+div {
+    clear:both!important;
+    display:block!important;
+    width:100%;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile1 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile2 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile3 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hello {
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.callme {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hereweare {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.stealinsbadmmk {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.devcred {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.thebackside {
+min-height: 1700px;
+}
+
+.lebackside {
+min-height: 1700px;
+}
+
+#rainbows {
+min-height: 1700px;
+}
+
+#butterflies {
+min-height: 1700px;
+}
+
+}
+
+@media all and (min-device-width : 320px) and (max-device-width : 600px) and (orientation:landscape) {
+
+body {
+	-webkit-text-size-adjust:none;
+}
+
+div {
+    clear:both!important;
+    display:block!important;
+    width:100%;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile1 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile2 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile3 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hello {
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.callme {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hereweare {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.stealinsbadmmk {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.devcred {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.thebackside {
+min-height: 2500px;
+}
+
+.lebackside {
+min-height: 2500px;
+}
+
+#rainbows {
+min-height: 2500px;
+}
+
+#butterflies {
+min-height: 2500px;
+}
+
+}
+
+/* NEXUS 7 Just For Fun */
+
+@media screen and (device-width: 600px) and (device-height: 905px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) {
+
+body {
+	-webkit-text-size-adjust:none;
+}
+
+div {
+    clear:both!important;
+    display:block!important;
+    width:100%;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile1 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile2 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile3 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hello {
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.callme {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hereweare {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.stealinsbadmmk {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.devcred {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.thebackside {
+min-height: 3205.2px;
+}
+
+.lebackside {
+min-height: 3205.2px;
+}
+
+#rainbows {
+min-height: 3205.2px;
+}
+
+#butterflies {
+min-height: 3205.2px;
+}
+
+}
+
+/* LE IPADZ */
+
+@media all and (min-device-width: 768px) and (max-device-width:1024px) and (orientation: portrait) { 
+
+body {
+	-webkit-text-size-adjust:none;
+}
+
+div {
+    clear:both!important;
+    display:block!important;
+    width:100%;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile1 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile2 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile3 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hello {
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.callme {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hereweare {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.stealinsbadmmk {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.devcred {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.thebackside {
+min-height: 4000px;
+}
+
+.lebackside {
+min-height: 4000px;
+}
+
+#rainbows {
+min-height: 4000px;
+}
+
+#butterflies {
+min-height: 4000px;
+}
+
+}
+
+@media all and (min-device-width:768px) and (max-device-width: 1024px) and (orientation: landscape) { 
+
+body {
+	-webkit-text-size-adjust:none;
+}
+
+div {
+    clear:both!important;
+    display:block!important;
+    width:100%;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile1 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile2 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.profile3 {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hello {
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.callme {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.hereweare {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.stealinsbadmmk {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+left: 0%;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+.devcred {
+display: block;
+position: relative;
+margin-top: 1%;
+margin-left: 0;
+width: 100%;
+height: auto;
+z-index: 0;
+}
+
+.thebackside {
+min-height: 5450px;
+}
+
+.lebackside {
+min-height: 5450px;
+}
+
+#rainbows {
+min-height: 5450px;
+}
+
+#butterflies {
+min-height: 5450px;
+}
+
+}
